@@ -1,4 +1,4 @@
-# Real TimeFace Detection
+# Real Time Face Detection
 <img src="https://i0.wp.com/rankone.io/wp-content/uploads/2018/11/howfrworks.png?resize=1080%2C675&ssl=1"/>
 
 ## Run Locally
